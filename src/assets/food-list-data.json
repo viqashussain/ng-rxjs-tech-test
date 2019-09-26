@@ -1,0 +1,38 @@
+[
+    {
+        "name": "pizza",
+        "isVegetarian": false,
+        "isVegan": false,
+        "price": 9.99
+    },
+    {
+        "name": "fish",
+        "isVegetarian": false,
+        "isVegan": false,
+        "price": 4.99
+    },
+    {
+        "name": "spinach",
+        "isVegetarian": true,
+        "isVegan": true,
+        "price": 0.99
+    },
+    {
+        "name": "burger",
+        "isVegetarian": false,
+        "isVegan": false,
+        "price": 7.99
+    },
+    {
+        "name": "milk",
+        "isVegetarian": true,
+        "isVegan": false,
+        "price": 1.99
+    },
+    {
+        "name": "banana",
+        "isVegetarian": true,
+        "isVegan": true,
+        "price": 0.49
+    }
+]
